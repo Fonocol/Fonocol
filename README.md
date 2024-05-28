@@ -1,6 +1,6 @@
 # 🌟 Welcome to My GitHub Profile!
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=250&section=header&text=Fono%20Colince&fontSize=90&fontAlignY=35&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Fono%20Colince&fontSize=90&fontAlignY=35&fontColor=ffffff)
 
 ### 💫 About Me:
 - 🔍 Seeking an **apprenticeship in data science**
@@ -61,10 +61,15 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies:
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Fonocol&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
 </div>
+
+---
+
+## 📈 Activity Graph:
+[![Fono Colince's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Fonocol&bg_color=1c1c1c&color=a82da8&line=EEFF00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -72,4 +77,4 @@
   <img src="https://visitcount.itsvg.in/api?id=Fonocol&icon=0&color=0" alt="Profile Views"/>
 </div>
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:EEFF00,100:a82da8&height=150)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&height=150)
