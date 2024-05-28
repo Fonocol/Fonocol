@@ -60,12 +60,7 @@
 </div>
 
 ---
-
 ## 🏆 GitHub Trophies:
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Fonocol&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
-</div>
-
 ---
 
 ## 📈 Activity Graph:
