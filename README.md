@@ -69,7 +69,7 @@
 ---
 
 ## 📈 Activity Graph:
-[![Fono Colince's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Fonocol&bg_color=1c1c1c&color=a82da8&line=EEFF00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Fono Colince's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Fonocol)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
